@@ -1,0 +1,453 @@
+{
+    "products": [
+        {
+            "name": "iPhone 13 Pro",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 63990,
+            "cost": 55000,
+            "vendor": "Apple",
+            "stock": 50,
+            "photoUrl": "https://specs.yugatech.com/wp-content/uploads/2022/08/main-2-600x600.jpg",
+            "description": "The latest iPhone featuring a stunning Super Retina XDR display, powerful A15 Bionic chip, and advanced camera system."
+        },
+        {
+            "name": "Samsung 55\" QLED 4K TV",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 38990,
+            "cost": 30500,
+            "vendor": "Samsung",
+            "stock": 30,
+            "photoUrl": "https://ansons.ph/wp-content/uploads/2023/04/08_Q60CAGXXP_02.png",
+            "description": "Immerse yourself in vibrant colors and crystal-clear visuals with this QLED TV, equipped with Quantum Dot technology."
+        },
+        {
+            "name": "Whirlpool French Door Refrigerator",
+            "category": {
+                "category_id": 2,
+                "category_name": "Appliances",
+                "subcategories": [
+                    "Refrigerators",
+                    "Washing Machines",
+                    "Air Conditioners",
+                    "Microwave Ovens",
+                    "Coffee Makers",
+                    "Blenders"
+                ]
+            },
+            "price": 45500,
+            "cost": 37800,
+            "vendor": "Whirlpool",
+            "stock": 20,
+            "photoUrl": "https://images.thdstatic.com/productImages/84a7593f-49f8-48c5-b56d-1a3803469acb/svn/fingerprint-resistant-stainless-steel-whirlpool-french-door-refrigerators-wrx735sdhz-64_1000.jpg",
+            "description": "A spacious and energy-efficient refrigerator with French doors, multiple cooling zones, and advanced freshness features."
+        },
+        {
+            "name": "Nike Air Zoom Pegasus 38",
+            "category": {
+                "category_id": 3,
+                "category_name": "Clothing",
+                "subcategories": [
+                    "Men's Apparel",
+                    "Women's Apparel",
+                    "Shoes",
+                    "Bags",
+                    "Watches",
+                    "Jewelry"
+                ]
+            },
+            "price": 5995,
+            "cost": 3800,
+            "vendor": "Nike",
+            "stock": 100,
+            "photoUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/212a947c-2f1e-4c35-9dc1-3b588b8f35ff/pegasus-38-road-running-shoes-Hmsj6Q.png",
+            "description": "The iconic running shoe with responsive cushioning and a comfortable fit, perfect for both casual and athletic use."
+        },
+        {
+            "name": "Sony WH-1000XM4 Wireless Headphones",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 16990,
+            "cost": 13500,
+            "vendor": "Sony",
+            "stock": 40,
+            "photoUrl": "https://www.sony.com.ph/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+            "description": "Experience industry-leading noise cancellation and exceptional sound quality with these wireless over-ear headphones."
+        },
+        {
+            "name": "Dyson V11 Absolute Cordless Vacuum",
+            "category": {
+                "category_id": 4,
+                "category_name": "Home",
+                "subcategories": [
+                    "Furniture",
+                    "Bedding and Linens",
+                    "Home Decor",
+                    "Kitchenware",
+                    "Lighting Fixtures",
+                    "Cleaning Supplies"
+                ]
+            },
+            "price": 34500,
+            "cost": 28000,
+            "vendor": "Dyson",
+            "stock": 25,
+            "photoUrl": "https://s3.pricemestatic.com/Large/Images/RetailerProductImages/StRetailer2292/rp_27277237_0_0086716628_multi_l.jpg",
+            "description": "A powerful cordless vacuum with intelligent suction and a high-torque cleaner head for effective cleaning on various floor types."
+        },
+        {
+            "name": "Calvin Klein Men's Slim Fit Shirt",
+            "category": {
+                "category_id": 3,
+                "category_name": "Clothing",
+                "subcategories": [
+                    "Men's Apparel",
+                    "Women's Apparel",
+                    "Shoes",
+                    "Bags",
+                    "Watches",
+                    "Jewelry"
+                ]
+            },
+            "price": 2499,
+            "cost": 1200,
+            "vendor": "Calvin Klein",
+            "stock": 80,
+            "photoUrl": "https://i.ebayimg.com/images/g/gbkAAOSwIchlN-zN/s-l1200.webp",
+            "description": "Elevate your style with this slim-fit shirt crafted from premium cotton, perfect for formal and casual occasions."
+        },
+        {
+            "name": "Nestle Coffee Machine",
+            "category": {
+                "category_id": 2,
+                "category_name": "Appliances",
+                "subcategories": [
+                    "Refrigerators",
+                    "Washing Machines",
+                    "Air Conditioners",
+                    "Microwave Ovens",
+                    "Coffee Makers",
+                    "Blenders"
+                ]
+            },
+            "price": 6990,
+            "cost": 5200,
+            "vendor": "Nestle",
+            "stock": 35,
+            "photoUrl": "https://www.nestleprofessional.ph/sites/default/files/styles/np_product_detail/public/2022-11/fusion-touch-screen-front.jpg?itok=PgPXAPGL",
+            "description": "Enjoy barista-quality coffee at home with this compact and easy-to-use coffee machine from Nestle."
+        },
+        {
+            "name": "LEGO Star Wars Millennium Falcon",
+            "category": {
+                "category_id": 8,
+                "category_name": "Toys",
+                "subcategories": [
+                    "Board Games",
+                    "Educational Toys",
+                    "Action Figures",
+                    "Puzzles",
+                    "Outdoor Toys"
+                ]
+            },
+            "price": 15500,
+            "cost": 11800,
+            "vendor": "LEGO",
+            "stock": 15,
+            "photoUrl": "https://i.ebayimg.com/images/g/ZN8AAOSwLapgmrTi/s-l1200.webp",
+            "description": "Build the iconic Millennium Falcon with this detailed LEGO set, perfect for Star Wars fans and collectors."
+        },
+        {
+            "name": "Moleskine Classic Notebook",
+            "category": {
+                "category_id": 9,
+                "category_name": "Stationery",
+                "subcategories": [
+                    "Notebooks",
+                    "Pens and Pencils",
+                    "Office Chairs",
+                    "Printers",
+                    "Art Supplies"
+                ]
+            },
+            "price": 899,
+            "cost": 650,
+            "vendor": "Moleskine",
+            "stock": 60,
+            "photoUrl": "https://d3rufo5ufnqhwp.cloudfront.net/38948-large_default_2x/moleskine-classic-notebooks-ruled-hard-large-lemon-green-accessories.jpg",
+            "description": "A classic and durable notebook with a hardcover, perfect for jotting down notes, sketches, and creative ideas."
+        },
+        {
+            "name": "Sony PlayStation 5",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 26990,
+            "cost": 22000,
+            "vendor": "Sony",
+            "stock": 15,
+            "photoUrl": "https://s3.pricemestatic.com/Large/Images/ProductImages/202006/SonyPlaystation5_l.jpg",
+            "description": "Experience next-gen gaming with the powerful PlayStation 5 console, featuring advanced graphics and ultra-fast SSD storage."
+        },
+        {
+            "name": "KitchenAid Stand Mixer",
+            "category": {
+                "category_id": 2,
+                "category_name": "Appliances",
+                "subcategories": [
+                    "Refrigerators",
+                    "Washing Machines",
+                    "Air Conditioners",
+                    "Microwave Ovens",
+                    "Coffee Makers",
+                    "Blenders"
+                ]
+            },
+            "price": 15990,
+            "cost": 13000,
+            "vendor": "KitchenAid",
+            "stock": 25,
+            "photoUrl": "https://shop.kitchenaid.ph/wp-content/uploads/2019/03/5KSM150PSPER.jpg",
+            "description": "A versatile stand mixer with various attachments for baking and cooking enthusiasts, ensuring easy and efficient food preparation."
+        },
+        {
+            "name": "Samsung Galaxy Watch 4",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 8990,
+            "cost": 7500,
+            "vendor": "Samsung",
+            "stock": 30,
+            "photoUrl": "https://www.abenson.com/media/catalog/product/1/7/176551_2020.jpg",
+            "description": "Stay connected and track your fitness with the Samsung Galaxy Watch 4, featuring a vibrant AMOLED display and advanced health monitoring."
+        },
+        {
+            "name": "Panasonic Lumix G7 Mirrorless Camera",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 25990,
+            "cost": 21000,
+            "vendor": "Panasonic",
+            "stock": 20,
+            "photoUrl": "https://jgsuperstore.com/cdn/shop/products/1431949669000_IMG_494341.jpg?v=1642817943",
+            "description": "Capture stunning images and 4K videos with the Panasonic Lumix G7 Mirrorless Camera, equipped with advanced autofocus and image stabilization."
+        },
+        {
+            "name": "Adidas Ultraboost Running Shoes",
+            "category": {
+                "category_id": 3,
+                "category_name": "Clothing",
+                "subcategories": [
+                    "Men's Apparel",
+                    "Women's Apparel",
+                    "Shoes",
+                    "Bags",
+                    "Watches",
+                    "Jewelry"
+                ]
+            },
+            "price": 4995,
+            "cost": 3700,
+            "vendor": "Adidas",
+            "stock": 60,
+            "photoUrl": "https://i.ebayimg.com/images/g/T34AAOSwwp1kN4y5/s-l1200.webp",
+            "description": "Achieve peak performance with the Adidas Ultraboost Running Shoes, known for their comfort, responsiveness, and sleek design."
+        },
+        {
+            "name": "LG 65\" OLED 4K TV",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 52990,
+            "cost": 42000,
+            "vendor": "LG",
+            "stock": 15,
+            "photoUrl": "https://www.abenson.com/media/catalog/product/1/7/176551_2020.jpg",
+            "description": "Experience cinematic visuals with the LG OLED 4K TV, featuring self-lit pixels for deep blacks and vibrant colors."
+        },
+        {
+            "name": "Breville Juice Fountain Cold XL",
+            "category": {
+                "category_id": 2,
+                "category_name": "Appliances",
+                "subcategories": [
+                    "Refrigerators",
+                    "Washing Machines",
+                    "Air Conditioners",
+                    "Microwave Ovens",
+                    "Coffee Makers",
+                    "Blenders"
+                ]
+            },
+            "price": 8990,
+            "cost": 7200,
+            "vendor": "Breville",
+            "stock": 20,
+            "photoUrl": "https://www.breville.com/content/dam/breville/ca/catalog/products/images/bje/bje830btr1bca1/pdp.jpg?pdp",
+            "description": "Create refreshing and nutritious juices with the Breville Juice Fountain Cold XL, designed for efficient extraction and easy cleaning."
+        },
+        {
+            "name": "Ray-Ban Aviator Sunglasses",
+            "category": {
+                "category_id": 3,
+                "category_name": "Clothing",
+                "subcategories": [
+                    "Men's Apparel",
+                    "Women's Apparel",
+                    "Shoes",
+                    "Bags",
+                    "Watches",
+                    "Jewelry"
+                ]
+            },
+            "price": 3290,
+            "cost": 2200,
+            "vendor": "Ray-Ban",
+            "stock": 40,
+            "photoUrl": "https://visionexpress.ph/cdn/shop/products/RB3025_L0205_1.jpg?v=1624011880",
+            "description": "Make a style statement with the classic Ray-Ban Aviator Sunglasses, known for their iconic design and UV protection."
+        },
+        {
+            "name": "Canon EOS Rebel T7 DSLR Camera",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 49990,
+            "cost": 40000,
+            "vendor": "Canon",
+            "stock": 15,
+            "photoUrl": "https://images-na.ssl-images-amazon.com/images/I/41LLTMKuflL.jpg",
+            "description": "Capture high-quality photos and videos with the Canon EOS Rebel T7 DSLR Camera, featuring a 24.1MP sensor and fast autofocus."
+        },
+        {
+            "name": "ASUS ROG Gaming Laptop",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 75990,
+            "cost": 62000,
+            "vendor": "ASUS",
+            "stock": 10,
+            "photoUrl": "https://benstore.com.ph/31688-medium_default/asus-rog-strix-g17-g713pv-ds94-173-qhd-gaming-laptop-240hz-ryzen-9-7945hx-rtx-4060-8gb-16gb-ddr5-1tb-ssd-eclipse-gray-.jpg",
+            "description": "Immerse yourself in gaming and productivity with the powerful ASUS ROG Gaming Laptop, equipped with high-performance components."
+        },
+        {
+            "name": "Fitbit Charge 5 Fitness Tracker",
+            "category": {
+                "category_id": 1,
+                "category_name": "Electronics",
+                "subcategories": [
+                    "Smartphones",
+                    "Laptops",
+                    "LED TVs",
+                    "Digital Cameras",
+                    "Headphones",
+                    "Gaming Consoles",
+                    "Fitness Trackers"
+                ]
+            },
+            "price": 5490,
+            "cost": 4200,
+            "vendor": "Fitbit",
+            "stock": 35,
+            "photoUrl": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/7/177232_2020_1.jpg",
+            "description": "Track your fitness goals and monitor health metrics with the Fitbit Charge 5 Fitness Tracker, featuring a sleek design and advanced sensors."
+        }
+    ]
+}

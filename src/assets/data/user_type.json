@@ -1,0 +1,12 @@
+{
+  "userType": [
+    {
+      "type": "ADMIN",
+      "typeId": 1
+    },
+    {
+      "type": "CLERK",
+      "typeId": 2
+    }
+  ]
+}
